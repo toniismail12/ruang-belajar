@@ -1,3 +1,31 @@
+Aplikasi Ruang Belajar,
+Fitur:
+Superadmin,
+1. Buat Kelas Baru
+2. Tambahkan Pengajar/Trainer
+3. Kelola Pendaftaran Kelas
+4. Kelola User
+
+Pengajar/Trainer,
+1. Buat Materi,(Bisa Embed video dari Youtube)
+2. Buat Tugas, Nilai Tugas
+3. Lihat Total Nilai Peserta Belaja
+
+Peserta Belajar,
+1. Lihat Materi
+2. Lihat Tugas, Kumpulkan Tugas
+3. Lihat Nilai
+4. Lihat Total Nilai
+
+File env = env.example
+
+Preview:
+<img src="home-trainer.jpg" alt="preview">
+<br>
+<img src="ruangkelas-trainer.png" alt="preview">
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
